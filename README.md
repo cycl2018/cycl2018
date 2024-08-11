@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Chengyu Lai(赖澄宇)</h1>
 <h3 align="center">A student from Zhejiang University</h3>
-<h3 align="center">我预计2025年3月毕业，正在寻找推荐系统，风控，图神经网络相关的工作<br>这是我的简历:<a href="https://github.com/cycl2018/Resume">简历</h3>
+<h3 align="center">我预计2025年3月毕业，正在寻找推荐算法相关的工作<br>这是我的简历:<a href="https://github.com/cycl2018/Resume">简历</h3>
 <h3 align="center">欢迎联系:laichengyu@zju.edu.cn</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cycl2018&show_icons=true&locale=en" alt="cycl2018" /></p>
